@@ -19,7 +19,7 @@
 
 ![Ferramentas e Tecnologias](https://img.shields.io/badge/-Ferramentas%20e%20Tecnologias-4287f5?style=for-the-badge)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,idea,pycharm,vscode)](https://skillicons.dev)
 
 <hr>
 
