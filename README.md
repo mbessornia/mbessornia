@@ -1,7 +1,10 @@
-![Static Badge](https://img.shields.io/badge/My_Github-Profile-blue?style=plastic&logo=github)
+![Static Badge](https://img.shields.io/badge/My-Github_Profile-50B5FE?style=plastic&logo=github)
 
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50B5FE&size=20&center=true&vCenter=true&width=1000&lines=Hello%2C++I'm+Mateus+Henrique+Bessornia!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=50B5FE&size=24&center=true&vCenter=true&width=1000&lines=Hello%2C++I'm+Mateus+Henrique+Bessornia!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<br>
 
 > Estudante de Sistemas de Informação na FIAP, profundamente interessado no papel da tecnologia na solução de problemas do mundo real. Atualmente, concilio minha experiência de estágio em otimização de workflows e processos com meus estudos em Ciência de Dados.
 
@@ -23,7 +26,7 @@
 
 ### 📊 Github Stats
 
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=mbessornia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=0"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbessornia&layout=compact&theme=github_dark&langs_count=8"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=mbessornia&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&cache_seconds=0"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbessornia&layout=compact&theme=prussian&langs_count=8"/>
 ---
 
 ### 📭 My Channels
