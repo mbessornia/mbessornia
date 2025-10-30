@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/mbessornia">
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=mbessornia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=0"/>
-    <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbessornia&layout=compact&theme=github_dark&langs_count=8"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=mbessornia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=0"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbessornia&layout=compact&theme=github_dark&langs_count=8"/>
   </a>
 </div>
 
