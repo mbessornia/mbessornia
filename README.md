@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50B5FE&size=20&center=true&vCenter=true&width=1000&lines=Hello%2C++I'm+Mateus+Henrique+Bessornia!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-> Sou um estudante de Sistemas de Informação na Faculdade de Informática e Adminstração Paulista (FIAP). Muito interessado pela área da tecnologia e em como ela pode resolver problemas no nosso cotidiano.
+> Estudante de Sistemas de Informação na FIAP, profundamente interessado no papel da tecnologia na solução de problemas do mundo real. Atualmente, concilio minha experiência de estágio em otimização de workflows e processos com meus estudos em Ciência de Dados.
 
-> I am an Information Systems student at the Faculdade de Informática e Administração Paulista (FIAP). I am very interested in the area of technology and how it can solve problems in our daily lives.
+> Information Systems student at FIAP, deeply interested in technology's role in solving real-world problems. Currently bridging my internship experience in workflow and process optimization with my studies in Data Science.
 
 <br>
 
@@ -21,18 +21,10 @@
 ![Static Badge](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto)
 ---
 
-<br>
-
 ### 📊 Github Stats
 
-<div align="center">
-  <a href="https://github.com/mbessornia">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=mbessornia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=0"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbessornia&layout=compact&theme=github_dark&langs_count=8"/>
-  </a>
-</div>
-
-<br>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=mbessornia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=0"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbessornia&layout=compact&theme=github_dark&langs_count=8"/>
+---
 
 ### 📭 My Channels
 
