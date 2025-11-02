@@ -2,22 +2,33 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Executa a cada 6 horas
+    # Executa automaticamente a cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout do repositório para acesso aos arquivos
       - uses: actions/checkout@v4
+      
+      # Geração da animação da cobrinha (Platane/snk)
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          # ----------------------------------------------------
+          # COR CUSTOMIZADA: Azul Claro/Ciano (#50B5FE)
+          color_snake: "#50B5FE" 
+          # ----------------------------------------------------
           outputs: |
+            # Versão para tema claro (light)
             dist/github-contribution-grid-snake.svg
+            # Versão para tema escuro (dark)
             dist/github-contribution-grid-snake-dark.svg
           
+      # Publica os arquivos SVG na branch 'output'
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
