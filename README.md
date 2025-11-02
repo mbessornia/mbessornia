@@ -34,6 +34,12 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/mateus-bessornia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 <a href = "mailto:matbessornia20@gmail.com">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div> 
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbessornia/mbessornia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbessornia/mbessornia/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/mbessornia/mbessornia/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=70&color=1F6FEB&section=footer&reversal=false"/>
